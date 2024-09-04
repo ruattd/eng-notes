@@ -1,0 +1,10 @@
+---
+title: Dictionary Page
+---
+
+{% block content %}
+
+    {%- for post in page.posts.toArray() -%}
+    <p>post.title</p>
+    {%- endfor -%}
+{% endblock %}

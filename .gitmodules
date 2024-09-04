@@ -1,0 +1,3 @@
+[submodule "eng-notes-theme-next"]
+	path = themes/next
+	url = https://github.com/ruattd/eng-notes-theme-next
