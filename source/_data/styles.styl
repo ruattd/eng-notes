@@ -11,8 +11,8 @@
     padding-left: .2em;
 }
 
-.element {
-    line-height: 1.4em;
+.element-item {
+    line-height: 1.8em;
 
     .element-title {
         font-weight: bold;
@@ -45,4 +45,29 @@
         color: gray;
         font-size: .6em;
     }
+}
+
+.element-list {
+    &.element-related-list {
+        padding-top: 0;
+
+        .element-item {
+            line-height: 1.4em;
+
+            .element-title {
+                font-size: .85em;
+            }
+
+            .element-description {
+                font-size: .7em;
+            }
+        }
+    }
+}
+
+.element-related-title {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-style: italic;
+    font-weight: bold;
 }
