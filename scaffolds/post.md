@@ -1,7 +1,8 @@
 ---
 title: {{ title }}
-desc:
-prop:
-categories:
-tags:
+desc: 
+prop: 
+rel: 
+categories: 
+tags: 
 ---

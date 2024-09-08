@@ -1,9 +1,10 @@
 ---
 title: take
-desc: "v. 拿, 取"
+desc: "v. 拿, 取, 带"
 prop: word
+rel:
 categories: [verb]
 tags: 
 ---
 
-test
+take 表示 拿/带 等意义时偏向 "带走", 与此相反的用法为 [bring](/word/bring) (带来) .
