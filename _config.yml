@@ -24,7 +24,7 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
+archive_dir: dict
 category_dir: properties
 code_dir: downloads/code
 i18n_dir: :lang
@@ -69,8 +69,13 @@ category_generator:
   yearly: false
   monthly: false
   per_page: 0
+  order_by: title
 tag_generator:
   per_page: 0
+  order_by: title
+archive_generator:
+  per_page: 0
+  order_by: title
 
 # Category & Tag
 default_category: uncategorized
