@@ -311,9 +311,9 @@ post_navigation: left
 
 # TagCloud settings for tags page.
 tagcloud:
-  min: 14 # Minimum font size in px
-  max: 20 # Maximum font size in px
-  amount: 200 # Total amount of tags
+  min: 16 # Minimum font size in px
+  max: 16 # Maximum font size in px
+  amount: 0 # Total amount of tags
   orderby: name # Order of tags
   order: 1 # Sort order
 
