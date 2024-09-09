@@ -3,6 +3,7 @@ title: recommendation
 desc: "n. (正式的)建议; 推荐信"
 prop: word
 rel: recommend
+relto: [recommend]
 categories: [noun, noun-c]
 tags:
 ---
