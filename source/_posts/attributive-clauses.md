@@ -1,5 +1,5 @@
 ---
-title: attributive clauses
+title: Attributive Clauses
 desc: "[SP] 定语从句"
 prop: sp
 rel:

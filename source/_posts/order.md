@@ -3,7 +3,9 @@ title: order
 desc: "v. 点菜, 预订; 命令, 要求; n. 预订; 次序, 顺序"
 prop: word
 rel:
-categories: [verb, noun]
+categories: 
+  - [verb]
+  - [noun]
 tags: [v-sb-todo]
 ---
 

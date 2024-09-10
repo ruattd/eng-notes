@@ -3,7 +3,10 @@ title: well
 desc: "adj. adv. 好; n. 井, 水井"
 prop: word
 rel: good
-categories: [adjective, adverb, noun]
+categories: 
+  - [adjective]
+  - [adverb]
+  - [noun]
 tags:
 ---
 
