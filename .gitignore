@@ -7,3 +7,5 @@ public/
 .deploy*/
 _multiconfig.yml
 .idea/
+package-lock.json
+yarn.lock
