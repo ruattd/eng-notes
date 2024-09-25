@@ -85,11 +85,35 @@ I stopped the machine.
 The machine was stopped 2 hours ago.
 The machine has been stopped since 2 hours ago.
 
+## 祈使句
+
+以动词原形开头, 表示命令或请求的特殊句式.
+
+如:
+Keep quiet!
+Be careful and keep calm so that you won't make mistakes.
+Do not smoking.
+Let's go to the museum.
+~~MAKE AMERICA GREAT AGAIN!~~ (from Donald Trump)
+
+绝大多数祈使句的实质就是一个习惯上省略 "you will" 的一般将来时句子, 故祈使句的反义疑问句一般使用 "will you" 提问, 个别 (如 let's 开头的句子) 使用 "shall we" 提问.
+
 ## 非谓语动词
 
 ### 分词作伴随状语
 
+现在分词/过去分词或以它们开头的短语可以作为句子的伴随状语, 用于表达某个与谓语动词同时存在的动作或状态, 与句子主要成分之间通常用 "," 分隔.
+
+如:
+With the development of science and technology, the use of smart phones is becoming more and more common in our daily life, leading the progress of the times.
+这句作文经典开头中的最后一段即现在分词 leading 作句子的伴随状语.
+
+这种用法常与 there be 句型结合使用, 如:
+There is an old man sitting on the bench.
+
 ### 不定式表目的
+
+to do 常用于表示某个行为的目的, 可以放在句子任何位置.
 
 ### 动名词
 
