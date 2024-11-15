@@ -45,34 +45,67 @@ title: Verbs
 ### 一般现在时
 
 The Simple Present Tense.
+表示经常发生或持续存在的动作/状态.
+
+结构: do/does
+
+当主语是第三人称单数时谓语动词应变化为对应形式.
 
 ### 一般过去时
 
 The Simple Past Tense.
+表示过去某一时刻的动作/状态.
+
+结构: did
 
 ### 一般将来时
 
 The Simple Future Tense.
+表示将来某一时刻的动作/状态.
+
+结构: will do 或 am/is/are going to do
+
+当描述**计划或安排好**的动作且谓语动词表示**位置移动**时, 可用[现在进行时](#现在进行时)表将来.
 
 ### 过去将来时
 
 The Past Future Tense.
+表示在过去语境下将来某一时刻的动作/状态.
+
+结构: would do 或 was/were going to do
+
+常用于主句为过去时态时的宾语从句.
 
 ### 现在进行时
 
 The Present Continuous Tense.
+表示正在进行或正在发生的动作/状态.
+
+结构: am/is/are doing
 
 ### 过去进行时
 
 The Past Continuous Tense.
+表示过去某时间段在进行或发生的动作/状态.
+
+结构: was/were doing
 
 ### 现在完成时
 
 The Present Perfect Tense.
+表示过去某段时间对现在产生影响或持续至今的动作/状态.
+
+结构: have/has done
+
+表持续状态时应使用[延续性动词](#动词的延续性).
+for + 时间段, since + 时间点, so far, in the recent ... years 等表示一段时间的时间状语一般需使用延续性动词.
 
 ### 过去完成时
 
 The Past Perfect Tense.
+表示在过去语境下对当时的语境产生影响的动作/状态, 或表示过去的过去.
+
+结构: had done
 
 ## 语态
 
@@ -116,6 +149,24 @@ There is an old man sitting on the bench.
 to do 常用于表示某个行为的目的, 可以放在句子任何位置.
 
 ### 动名词
+
+使用动词的现在分词形式作为名词, 用于充当句子中的名词性成分.
+
+常见使用动名词作主语, 如:
+Thinking carefully to reduce your mistakes.
+
+## 动词的延续性
+
+若动词表示的动作/状态可以持续存在, 则称为**延续性动词**, 反之则为非延续性动词.
+
+常见的延续性动词包括 study, work, stand, lie, know, walk, keep, live, have, wait, watch, sing, read, sleep, stay 等.
+常见的非延续性动词包括 come, go, move, arrive, die, begin, start 等.
+
+部分非延续性动词对应的延续性形式:
+
+| 非延续性动词 | 延续性形式 |
+|----|----|
+| 
 
 ## 特殊动词
 

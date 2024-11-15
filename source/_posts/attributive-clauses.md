@@ -80,6 +80,14 @@ An accident happened this morning, which made me be late for school.
 - **at/in/on/... which** = where/when
 - **for which** = why
 
+### 强调句
+
+一种特殊的定语从句形式.
+
+结构: It is/was + 被强调部分 + who/that 引导的定语从句
+
+被强调部分只能是名词性成分, 引导词只能是 who 或 that
+
 ## 其他注意点
 
 从句中谓语动词是**及物动词**时, 时间/地点/原因不一定作状语, 也可能作名词性成分, 如:
