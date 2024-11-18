@@ -37,3 +37,14 @@ what/who/whose/when/where/why/how | 特殊疑问 |
 宾语从句中的疑问句应采用陈述语序, 即让本应倒装的词回到原位, 如:
 Can you tell me where the shop is?
 这句话中 "where the shop is" 即采用了陈述语序, 正常的疑问句应为 "Where is the shop?".
+
+## 否定前移
+
+当主句的主语为第一人称且谓语动词表示主观意识时, 应将宾语从句中的否定移至主句中, 此时主句的否定在含义上否定从句.
+
+如:
+I don't think he is right.
+表示 "我认为他不对"
+
+否定前移时, 反义疑问句应采用从句的形式和主句的否定义, 如上文的句子应变为:
+I don't think he is right, is he?
