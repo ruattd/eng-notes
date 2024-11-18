@@ -630,10 +630,10 @@ motion:
   async: true
   transition:
     # All available transition variants: https://theme-next.js.org/animate/
-    menu_item: fadeInLeft
+    menu_item: fadeInDown
     post_block: fadeIn
-    post_header: bounceIn
-    post_body: flipInY
+    post_header: fadeInDown
+    post_body: fadeInDown
     coll_header: fadeInLeft
     # Only for Pisces | Gemini.
     sidebar: fadeInUp
