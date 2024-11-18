@@ -26,15 +26,15 @@ title: Verbs
 
 变化:
 - 一般直接加 ed, 以 e 结尾则只加 d
-- 辅音音素 + y 结尾: 将 y 变为 i, 然后加 ing
-- 重读闭音节结尾: 双写最后一个字母, 然后加 ing
+- 辅音音素 + y 结尾: 将 y 变为 i, 然后加 ed
+- 重读闭音节结尾: 双写最后一个字母, 然后加 ed
 - 不规则变化
 
 ### 过去式
 
-表示过去的动作或状态, 通常与一般过去时结合使用.
+表示过去的动作或状态, 通常在[一般过去时](#一般过去时)中使用.
 
-规则变化与过去分词一致, 但也存在特殊变化.
+规则变化与过去分词一致, 但也存在不规则变化.
 
 ### 不定式
 
@@ -127,7 +127,7 @@ Keep quiet!
 Be careful and keep calm so that you won't make mistakes.
 Do not smoking.
 Let's go to the museum.
-~~MAKE AMERICA GREAT AGAIN!~~ (from Donald Trump)
+~~MAKE AMERICA GREAT AGAIN!~~ (from Donald J. Trump)
 
 绝大多数祈使句的实质就是一个习惯上省略 "you will" 的一般将来时句子, 故祈使句的反义疑问句一般使用 "will you" 提问, 个别 (如 let's 开头的句子) 使用 "shall we" 提问.
 
@@ -153,7 +153,7 @@ to do 常用于表示某个行为的目的, 可以放在句子任何位置.
 使用动词的现在分词形式作为名词, 用于充当句子中的名词性成分.
 
 常见使用动名词作主语, 如:
-Thinking carefully to reduce your mistakes.
+Thinking carefully may reduce your mistakes.
 
 ## 动词的延续性
 
@@ -162,11 +162,28 @@ Thinking carefully to reduce your mistakes.
 常见的延续性动词包括 study, work, stand, lie, know, walk, keep, live, have, wait, watch, sing, read, sleep, stay 等.
 常见的非延续性动词包括 come, go, move, arrive, die, begin, start 等.
 
-部分非延续性动词对应的延续性形式:
+部分常见的非延续性动作对应的延续性动作/状态:
 
-| 非延续性动词 | 延续性形式 |
-|----|----|
-| 
+非延续性动作 | 延续性动作
+----|----
+borrow | keep
+buy | have
+become | be
+come | be here
+come back | be back
+go / leave | be away / be not here
+die | be dead
+put on | wear
+open | be open
+close | be closed
+lose | be lost
+begin / start | be on
+finish | be over
+join | be in
+get up | be up
+turn on | be on
+arrive at/in | be at/in
+fall asleep | be asleep
 
 ## 特殊动词
 
