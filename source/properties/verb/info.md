@@ -155,9 +155,22 @@ to do 常用于表示某个行为的目的, 可以放在句子任何位置.
 常见使用动名词作主语, 如:
 Thinking carefully may reduce your mistakes.
 
-## 动词的延续性
+## 动词的逻辑特性
 
-若动词表示的动作/状态可以持续存在, 则称为**延续性动词**, 反之则为非延续性动词.
+### 及物性
+
+若动词需要搭配一个或以上宾语作为其表述对象, 则称为**及物动词**, 用 *vt.* (transitive) 表示, 反之为**不及物动词**, 用 *vi.* (intransitive) 表示.
+
+当一个动词有自己的完整含义而不需要配合其他成分来补充含义时, 其大概率是不及物动词.
+
+常见的及物动词包括 make, watch, give, freeze 等.
+常见的不及物动词包括 walk, run, flow, move 等.
+
+有些动词可以搭配宾语, 但不需要宾语补充自身含义, 如 read.
+
+### 延续性
+
+若动词表示的动作/状态可以持续存在, 则称为**延续性动词**, 反之则为**非延续性动词**.
 
 常见的延续性动词包括 study, work, stand, lie, know, walk, keep, live, have, wait, watch, sing, read, sleep, stay 等.
 常见的非延续性动词包括 come, go, move, arrive, die, begin, start 等.
